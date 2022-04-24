@@ -39,6 +39,11 @@ My phone number: +55 65 996583728
 - ⚡ Fun fact: ... -->
 
 ---
+### ::ticket:: Dev Passport :
+
+<a href="https://app.daily.dev/Jaumlitte"><img src="https://api.daily.dev/devcards/a7819173db2e437cb3d7463a9a126963.png?r=yp1" width="400" alt="João Paulo Azevedo's Dev Card"/></a>
+---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
